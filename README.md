@@ -15,7 +15,8 @@
 
 ## Glimpse of Website
 
-![Homepage](https://user-images.githubusercontent.com/101036458/192760012-8dc2b803-d72c-432b-b183-5ffd30a4a6ae.png)
+![Homepage](![Screenshot (429)](https://github.com/souravpanigrahi/imdb_movie/assets/81754980/2be443ca-0f27-45ce-b54f-5a9be31649c6)
+)
 ![content grid](https://user-images.githubusercontent.com/101036458/192759763-f5e2f468-30b2-44ee-8d92-2633af84a227.png)
 
 ![single content](https://user-images.githubusercontent.com/101036458/192759775-130585e3-7216-4b37-8ef4-af7132b2fad8.png)
