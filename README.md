@@ -1,6 +1,6 @@
 # IMDB - Online Movie Rating App
 
-> This project is a clone of IMDB website. It is created by using React/Redux, Html and Javascript. It contains two pages, the home page, where all the content is categorised and the content page. This website is completely responsive.
+> This project is a clone of IMDB website. It is created by using React, Html and Javascript. It contains two pages, the home page, where all the content is categorised and the content page. This website is completely responsive.
 
 ## Built With
 
@@ -15,11 +15,11 @@
 
 ## Glimpse of Website
 
-![Homepage](![Screenshot (429)](https://github.com/souravpanigrahi/imdb_movie/assets/81754980/2be443ca-0f27-45ce-b54f-5a9be31649c6)
-)
-![content grid](https://user-images.githubusercontent.com/101036458/192759763-f5e2f468-30b2-44ee-8d92-2633af84a227.png)
+![Homepage](https://github.com/souravpanigrahi/imdb_movie/assets/81754980/2be443ca-0f27-45ce-b54f-5a9be31649c6)
 
-![single content](https://user-images.githubusercontent.com/101036458/192759775-130585e3-7216-4b37-8ef4-af7132b2fad8.png)
+![Popular Page](https://github.com/souravpanigrahi/imdb_movie/assets/81754980/3d9dec27-3bd0-4b12-8c31-a4cb96cb8b2f)
+
+![single content](https://github.com/souravpanigrahi/imdb_movie/assets/81754980/d4d5c28a-422b-4005-97bc-8d666683bc6f)
 
 ## 🤝 Contributing
 
