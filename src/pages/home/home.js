@@ -5,8 +5,6 @@ import { Carousel } from "react-responsive-carousel";
 import { Link } from "react-router-dom";
 import MovieList from "../../components/move-list/movielist";
 
-
-
 const Home = () => {
   const [popularMovies, setPopularMovies] = useState([]);
   useEffect(() => {
@@ -36,6 +34,7 @@ const Home = () => {
                   src={`https://image.tmdb.org/t/p/original${
                     movie && movie.backdrop_path
                   }`}
+                  alt="Image couldn't load"
                 />
               </div>
               <div className="posterImage__overlay">
@@ -55,7 +54,7 @@ const Home = () => {
               </div>
             </Link>
           ))}
-        </Carousel> 
+        </Carousel>
         <MovieList></MovieList>
       </div>
     </>

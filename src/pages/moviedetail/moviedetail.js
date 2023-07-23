@@ -9,7 +9,7 @@ const Movie = () => {
   useEffect(() => {
     getData();
     window.scrollTo(0, 0);
-  }, []);
+  }, [id]);
 
   const getData = () => {
     fetch(
@@ -125,6 +125,7 @@ const Movie = () => {
                     src={
                       "https://image.tmdb.org/t/p/original" + company.logo_path
                     }
+                    alt="Image couldn't load"
                   />
                   <span>{company.name}</span>
                 </span>
